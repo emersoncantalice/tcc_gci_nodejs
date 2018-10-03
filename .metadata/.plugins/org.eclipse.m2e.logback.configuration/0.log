@@ -1,0 +1,105 @@
+2018-08-15 20:37:07,895 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2018-08-15 20:38:37,971 [Worker-19] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.gcinterceptor:msgpush:0.0.1-SNAPSHOT @ C:\Users\e.santos.cantalice\Desktop\TCC\msgpush-java\pom.xml.
+2018-08-15 20:38:38,948 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/com/gcinterceptor/gci-spring/0.1/gci-spring-0.1.pom
+2018-08-15 20:38:39,690 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/com/gcinterceptor/gci-spring/0.1/gci-spring-0.1.pom
+2018-08-15 20:38:40,956 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/rabbitmq/maven-milestones/com/gcinterceptor/gci-spring/0.1/gci-spring-0.1.pom
+2018-08-15 20:38:42,105 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/gcinterceptor/gci-spring/0.1/gci-spring-0.1.pom
+2018-08-15 20:38:42,113 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.gcinterceptor:gci-spring:jar:0.1 is missing, no dependency information available
+2018-08-15 20:38:43,462 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/com/gcinterceptor/gci-spring/0.1/gci-spring-0.1.jar
+2018-08-15 20:38:43,652 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/com/gcinterceptor/gci-spring/0.1/gci-spring-0.1.jar
+2018-08-15 20:38:43,844 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/rabbitmq/maven-milestones/com/gcinterceptor/gci-spring/0.1/gci-spring-0.1.jar
+2018-08-15 20:38:44,013 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/gcinterceptor/gci-spring/0.1/gci-spring-0.1.jar
+2018-08-15 20:38:45,920 [Worker-19] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /msgpush-java/src/main/java
+2018-08-15 20:38:45,920 [Worker-19] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /msgpush-java/src/main/resources
+2018-08-15 20:38:45,927 [Worker-19] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /msgpush-java/src/main/resources
+2018-08-15 20:38:45,929 [Worker-19] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /msgpush-java/src/test/java
+2018-08-15 20:38:47,629 [Worker-19] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 11 sec
+2018-08-15 20:38:51,111 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.gcinterceptor:gci-spring:jar:0.1 is missing, no dependency information available
+2018-08-15 20:38:51,443 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-15 20:38:51,447 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-08-15 20:38:51,459 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-15 20:38:51,462 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-15 20:38:51,462 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\e.santos.cantalice\Desktop\TCC\msgpush-java\src\test\resources
+2018-08-15 20:39:36,957 [Worker-12] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-08-15 20:39:37,616 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.gcinterceptor:msgpush:0.0.1-SNAPSHOT @ C:\Users\e.santos.cantalice\Desktop\TCC\msgpush-java\pom.xml.
+2018-08-15 20:39:38,530 [Worker-12] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/com/gcinterceptor/gci-spring/0.1/gci-spring-0.1.pom
+2018-08-15 20:39:39,173 [Worker-12] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/com/gcinterceptor/gci-spring/0.1/gci-spring-0.1.pom
+2018-08-15 20:39:40,218 [Worker-12] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/rabbitmq/maven-milestones/com/gcinterceptor/gci-spring/0.1/gci-spring-0.1.pom
+2018-08-15 20:39:40,992 [Worker-12] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/gcinterceptor/gci-spring/0.1/gci-spring-0.1.pom
+2018-08-15 20:39:40,998 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.gcinterceptor:gci-spring:jar:0.1 is missing, no dependency information available
+2018-08-15 20:39:41,602 [Worker-12] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/com/gcinterceptor/gci-spring/0.1/gci-spring-0.1.jar
+2018-08-15 20:39:41,789 [Worker-12] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/com/gcinterceptor/gci-spring/0.1/gci-spring-0.1.jar
+2018-08-15 20:39:41,948 [Worker-12] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/rabbitmq/maven-milestones/com/gcinterceptor/gci-spring/0.1/gci-spring-0.1.jar
+2018-08-15 20:39:42,075 [Worker-12] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/gcinterceptor/gci-spring/0.1/gci-spring-0.1.jar
+2018-08-15 20:39:42,540 [Worker-12] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /msgpush-java/src/main/java
+2018-08-15 20:39:42,541 [Worker-12] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /msgpush-java/src/main/resources
+2018-08-15 20:39:42,541 [Worker-12] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /msgpush-java/src/main/resources
+2018-08-15 20:39:42,542 [Worker-12] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /msgpush-java/src/test/java
+2018-08-15 20:39:42,781 [Worker-12] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 5 sec
+2018-08-15 20:39:43,128 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.gcinterceptor:gci-spring:jar:0.1 is missing, no dependency information available
+2018-08-15 20:39:43,409 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-15 20:39:43,410 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-08-15 20:39:43,422 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-15 20:39:43,426 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-15 20:39:43,426 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\e.santos.cantalice\Desktop\TCC\msgpush-java\src\test\resources
+2018-08-15 20:58:02,826 [Worker-25] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.gcinterceptor:msgpush:0.0.1-SNAPSHOT @ C:\Users\e.santos.cantalice\Desktop\TCC\msgpush-java\pom.xml.
+2018-08-15 20:58:04,184 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-15 20:58:04,196 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-15 20:58:04,197 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-15 20:58:04,207 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-15 20:58:04,207 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\e.santos.cantalice\Desktop\TCC\msgpush-java\src\test\resources
+2018-08-15 20:58:06,575 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-15 20:58:06,577 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-08-15 20:58:06,596 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-15 20:58:06,599 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-15 20:58:06,599 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\e.santos.cantalice\Desktop\TCC\msgpush-java\src\test\resources
+2018-08-15 20:58:37,844 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-15 20:58:37,847 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-08-15 20:58:37,853 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-15 20:58:37,857 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-15 20:58:37,857 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\e.santos.cantalice\Desktop\TCC\msgpush-java\src\test\resources
+2018-08-15 20:58:44,215 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-15 20:58:44,217 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-08-15 20:58:44,219 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-15 20:58:44,222 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-15 20:58:44,223 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\e.santos.cantalice\Desktop\TCC\msgpush-java\src\test\resources
+2018-08-15 20:59:01,982 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-15 20:59:01,983 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-08-15 20:59:01,985 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-15 20:59:01,987 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-15 20:59:01,987 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\e.santos.cantalice\Desktop\TCC\msgpush-java\src\test\resources
+2018-08-15 20:59:08,913 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-15 20:59:08,914 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-08-15 20:59:08,918 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-15 20:59:08,920 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-15 20:59:08,920 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\e.santos.cantalice\Desktop\TCC\msgpush-java\src\test\resources
+2018-08-15 21:06:04,508 [DefaultMetadataResolver-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jsweet.org/artifactory/plugins-release-local/org/jsweet/jsweet-maven-plugin/2.2.0-SNAPSHOT/maven-metadata.xml
+2018-08-15 21:06:05,030 [DefaultMetadataResolver-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repository.jsweet.org/artifactory/plugins-snapshot-local/org/jsweet/jsweet-maven-plugin/2.2.0-SNAPSHOT/maven-metadata.xml
+2018-08-15 21:06:05,290 [DefaultMetadataResolver-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jsweet.org/artifactory/plugins-snapshot-local/org/jsweet/jsweet-maven-plugin/2.2.0-SNAPSHOT/maven-metadata.xml
+2018-08-15 21:06:05,543 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repository.jsweet.org/artifactory/plugins-snapshot-local/org/jsweet/jsweet-maven-plugin/2.2.0-SNAPSHOT/jsweet-maven-plugin-2.2.0-20180704.112524-22.jar
+2018-08-15 21:06:06,182 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jsweet.org/artifactory/plugins-snapshot-local/org/jsweet/jsweet-maven-plugin/2.2.0-SNAPSHOT/jsweet-maven-plugin-2.2.0-20180704.112524-22.jar
+2018-08-15 21:06:07,305 [Worker-28] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.jsweet:jsweet-quickstart:2.2.0-SNAPSHOT @ C:\Users\e.santos.cantalice\Desktop\TCC\jsweet-quickstart\pom.xml.
+2018-08-15 21:06:07,903 [DefaultMetadataResolver-1-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jsweet.org/artifactory/libs-release-local/org/jsweet/jsweet-core/6-SNAPSHOT/maven-metadata.xml
+2018-08-15 21:06:08,307 [DefaultMetadataResolver-1-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repository.jsweet.org/artifactory/libs-snapshot-local/org/jsweet/jsweet-core/6-SNAPSHOT/maven-metadata.xml
+2018-08-15 21:06:08,939 [DefaultMetadataResolver-1-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jsweet.org/artifactory/libs-snapshot-local/org/jsweet/jsweet-core/6-SNAPSHOT/maven-metadata.xml
+2018-08-15 21:06:09,229 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jsweet.org/artifactory/libs-release-local/org/jsweet/jsweet-core/6-SNAPSHOT/jsweet-core-6-20180609.172347-24.pom
+2018-08-15 21:06:09,459 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repository.jsweet.org/artifactory/libs-snapshot-local/org/jsweet/jsweet-core/6-SNAPSHOT/jsweet-core-6-20180609.172347-24.pom
+2018-08-15 21:06:09,759 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jsweet.org/artifactory/libs-snapshot-local/org/jsweet/jsweet-core/6-SNAPSHOT/jsweet-core-6-20180609.172347-24.pom
+2018-08-15 21:06:10,050 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repository.jsweet.org/artifactory/libs-release-local/org/jsweet/candies/jquery/1.10.0-20170726/jquery-1.10.0-20170726.pom
+2018-08-15 21:06:10,376 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jsweet.org/artifactory/libs-release-local/org/jsweet/candies/jquery/1.10.0-20170726/jquery-1.10.0-20170726.pom
+2018-08-15 21:06:10,663 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repository.jsweet.org/artifactory/libs-release-local/org/jsweet/jsweet-core/5-20170726/jsweet-core-5-20170726.pom
+2018-08-15 21:06:10,990 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jsweet.org/artifactory/libs-release-local/org/jsweet/jsweet-core/5-20170726/jsweet-core-5-20170726.pom
+2018-08-15 21:06:11,238 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repository.jsweet.org/artifactory/libs-snapshot-local/org/jsweet/jsweet-core/6-SNAPSHOT/jsweet-core-6-20180609.172347-24.jar
+2018-08-15 21:06:16,223 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jsweet.org/artifactory/libs-snapshot-local/org/jsweet/jsweet-core/6-SNAPSHOT/jsweet-core-6-20180609.172347-24.jar
+2018-08-15 21:06:16,717 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repository.jsweet.org/artifactory/libs-release-local/org/jsweet/candies/jquery/1.10.0-20170726/jquery-1.10.0-20170726.jar
+2018-08-15 21:06:18,170 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jsweet.org/artifactory/libs-release-local/org/jsweet/candies/jquery/1.10.0-20170726/jquery-1.10.0-20170726.jar
+2018-08-15 21:06:18,667 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jsweet.org/artifactory/plugins-release-local/org/jsweet/jsweet-maven-plugin/2.2.0-SNAPSHOT/jsweet-maven-plugin-2.2.0-20180704.112524-22.pom
+2018-08-15 21:06:19,116 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repository.jsweet.org/artifactory/plugins-snapshot-local/org/jsweet/jsweet-maven-plugin/2.2.0-SNAPSHOT/jsweet-maven-plugin-2.2.0-20180704.112524-22.pom
+2018-08-15 21:06:19,345 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jsweet.org/artifactory/plugins-snapshot-local/org/jsweet/jsweet-maven-plugin/2.2.0-SNAPSHOT/jsweet-maven-plugin-2.2.0-20180704.112524-22.pom
+2018-08-15 21:06:20,247 [Worker-28] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jsweet-quickstart/src/main/java
+2018-08-15 21:06:20,248 [Worker-28] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jsweet-quickstart/src/test/java
+2018-08-15 21:06:20,372 [Worker-28] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 17 sec
+2018-08-15 21:06:20,868 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-15 21:06:20,873 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\e.santos.cantalice\Desktop\TCC\jsweet-quickstart\src\main\resources
+2018-08-15 21:06:20,876 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-15 21:06:20,878 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\e.santos.cantalice\Desktop\TCC\jsweet-quickstart\src\test\resources
