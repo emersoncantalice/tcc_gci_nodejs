@@ -1,0 +1,7026 @@
+[
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1027978,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 14.8,
+      "end_object_size": 7.1,
+      "start_memory_size": 27.2,
+      "end_memory_size": 12.2,
+      "pause": 0.6,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1028029,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 7.8,
+      "end_object_size": 7.1,
+      "start_memory_size": 12.2,
+      "end_memory_size": 12.2,
+      "pause": 0.8,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1028130,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 8,
+      "end_object_size": 7,
+      "start_memory_size": 12.2,
+      "end_memory_size": 12.2,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1028180,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 7.8,
+      "end_object_size": 7.1,
+      "start_memory_size": 12.2,
+      "end_memory_size": 12.2,
+      "pause": 1.2,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1028278,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 8,
+      "end_object_size": 7,
+      "start_memory_size": 12.2,
+      "end_memory_size": 12.2,
+      "pause": 0.6,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1028329,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 7.8,
+      "end_object_size": 7.1,
+      "start_memory_size": 12.2,
+      "end_memory_size": 12.2,
+      "pause": 0.7,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1028428,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 8,
+      "end_object_size": 7,
+      "start_memory_size": 12.2,
+      "end_memory_size": 12.2,
+      "pause": 0.4,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1028478,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 7.8,
+      "end_object_size": 7.1,
+      "start_memory_size": 12.2,
+      "end_memory_size": 13.2,
+      "pause": 0.4,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1028578,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 8,
+      "end_object_size": 7,
+      "start_memory_size": 13.2,
+      "end_memory_size": 13.2,
+      "pause": 0.3,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1028628,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 7.8,
+      "end_object_size": 7.1,
+      "start_memory_size": 13.2,
+      "end_memory_size": 13.2,
+      "pause": 0.4,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1028728,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 8,
+      "end_object_size": 7,
+      "start_memory_size": 13.2,
+      "end_memory_size": 13.2,
+      "pause": 0.3,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1028778,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 7.8,
+      "end_object_size": 7.1,
+      "start_memory_size": 13.2,
+      "end_memory_size": 13.2,
+      "pause": 0.4,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1028878,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 8,
+      "end_object_size": 7,
+      "start_memory_size": 13.2,
+      "end_memory_size": 13.2,
+      "pause": 0.3,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1028928,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 7.8,
+      "end_object_size": 7.1,
+      "start_memory_size": 13.2,
+      "end_memory_size": 13.2,
+      "pause": 0.4,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1029028,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 8,
+      "end_object_size": 7,
+      "start_memory_size": 13.2,
+      "end_memory_size": 15.2,
+      "pause": 0.4,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1029178,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 8.9,
+      "end_object_size": 7,
+      "start_memory_size": 15.2,
+      "end_memory_size": 15.2,
+      "pause": 0.3,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1029329,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 8.9,
+      "end_object_size": 7.1,
+      "start_memory_size": 15.2,
+      "end_memory_size": 15.2,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1029478,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 8.9,
+      "end_object_size": 7.1,
+      "start_memory_size": 15.2,
+      "end_memory_size": 15.2,
+      "pause": 0.4,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1029628,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 8.9,
+      "end_object_size": 7.1,
+      "start_memory_size": 15.2,
+      "end_memory_size": 15.2,
+      "pause": 0.4,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1029778,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 8.9,
+      "end_object_size": 7.1,
+      "start_memory_size": 15.2,
+      "end_memory_size": 15.2,
+      "pause": 0.3,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1029929,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 8.9,
+      "end_object_size": 7.1,
+      "start_memory_size": 15.2,
+      "end_memory_size": 15.2,
+      "pause": 0.4,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1030078,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 8.9,
+      "end_object_size": 7.1,
+      "start_memory_size": 15.2,
+      "end_memory_size": 15.2,
+      "pause": 0.4,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1030228,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 8.9,
+      "end_object_size": 7.1,
+      "start_memory_size": 15.2,
+      "end_memory_size": 15.2,
+      "pause": 0.4,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1030378,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 8.9,
+      "end_object_size": 7.1,
+      "start_memory_size": 15.2,
+      "end_memory_size": 15.2,
+      "pause": 0.4,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1030529,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 8.9,
+      "end_object_size": 7.1,
+      "start_memory_size": 15.2,
+      "end_memory_size": 15.2,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1030679,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 8.9,
+      "end_object_size": 7.1,
+      "start_memory_size": 15.2,
+      "end_memory_size": 15.2,
+      "pause": 1.8,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1030828,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 8.9,
+      "end_object_size": 7.1,
+      "start_memory_size": 15.2,
+      "end_memory_size": 15.2,
+      "pause": 0.4,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1030978,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 8.9,
+      "end_object_size": 7.1,
+      "start_memory_size": 15.2,
+      "end_memory_size": 15.2,
+      "pause": 0.4,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1031129,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 8.9,
+      "end_object_size": 7.1,
+      "start_memory_size": 15.2,
+      "end_memory_size": 15.2,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1031278,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 8.9,
+      "end_object_size": 7.1,
+      "start_memory_size": 15.2,
+      "end_memory_size": 15.2,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1031428,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 8.9,
+      "end_object_size": 7.1,
+      "start_memory_size": 15.2,
+      "end_memory_size": 15.2,
+      "pause": 0.4,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1031578,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 8.9,
+      "end_object_size": 7.1,
+      "start_memory_size": 15.2,
+      "end_memory_size": 15.2,
+      "pause": 0.3,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1031728,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 8.9,
+      "end_object_size": 7.1,
+      "start_memory_size": 15.2,
+      "end_memory_size": 15.2,
+      "pause": 0.4,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1031878,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 8.9,
+      "end_object_size": 7.1,
+      "start_memory_size": 15.2,
+      "end_memory_size": 15.2,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1032029,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 8.9,
+      "end_object_size": 7.1,
+      "start_memory_size": 15.2,
+      "end_memory_size": 15.2,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1032178,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 8.9,
+      "end_object_size": 7.1,
+      "start_memory_size": 15.2,
+      "end_memory_size": 15.2,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1032328,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 8.9,
+      "end_object_size": 7.1,
+      "start_memory_size": 15.2,
+      "end_memory_size": 15.2,
+      "pause": 0.4,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1032478,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 8.9,
+      "end_object_size": 7.1,
+      "start_memory_size": 15.2,
+      "end_memory_size": 15.2,
+      "pause": 0.4,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1032628,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 8.9,
+      "end_object_size": 7.1,
+      "start_memory_size": 15.2,
+      "end_memory_size": 15.2,
+      "pause": 0.4,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1032778,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 8.9,
+      "end_object_size": 7.1,
+      "start_memory_size": 15.2,
+      "end_memory_size": 19.2,
+      "pause": 0.9,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1033128,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.9,
+      "end_object_size": 7,
+      "start_memory_size": 19.2,
+      "end_memory_size": 19.2,
+      "pause": 0.4,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1033429,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.9,
+      "end_object_size": 7.1,
+      "start_memory_size": 19.2,
+      "end_memory_size": 19.2,
+      "pause": 0.6,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1033778,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.9,
+      "end_object_size": 7,
+      "start_memory_size": 19.2,
+      "end_memory_size": 19.2,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1034078,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.9,
+      "end_object_size": 7.1,
+      "start_memory_size": 19.2,
+      "end_memory_size": 19.2,
+      "pause": 0.6,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1034428,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.9,
+      "end_object_size": 7,
+      "start_memory_size": 19.2,
+      "end_memory_size": 19.2,
+      "pause": 0.4,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1034729,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.9,
+      "end_object_size": 7.1,
+      "start_memory_size": 19.2,
+      "end_memory_size": 19.2,
+      "pause": 0.6,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1035078,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.9,
+      "end_object_size": 7,
+      "start_memory_size": 19.2,
+      "end_memory_size": 19.2,
+      "pause": 0.3,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1035378,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.9,
+      "end_object_size": 7.1,
+      "start_memory_size": 19.2,
+      "end_memory_size": 19.2,
+      "pause": 0.6,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1035728,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.9,
+      "end_object_size": 7,
+      "start_memory_size": 19.2,
+      "end_memory_size": 19.2,
+      "pause": 0.4,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1036042,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.9,
+      "end_object_size": 7.1,
+      "start_memory_size": 19.2,
+      "end_memory_size": 19.2,
+      "pause": 0.7,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1036393,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.9,
+      "end_object_size": 7,
+      "start_memory_size": 19.2,
+      "end_memory_size": 19.2,
+      "pause": 0.7,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1036691,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.9,
+      "end_object_size": 7.1,
+      "start_memory_size": 19.2,
+      "end_memory_size": 19.2,
+      "pause": 0.7,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1037040,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.9,
+      "end_object_size": 7,
+      "start_memory_size": 19.2,
+      "end_memory_size": 19.2,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1037329,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.9,
+      "end_object_size": 7.1,
+      "start_memory_size": 19.2,
+      "end_memory_size": 19.2,
+      "pause": 0.6,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1037678,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.9,
+      "end_object_size": 7,
+      "start_memory_size": 19.2,
+      "end_memory_size": 19.2,
+      "pause": 0.6,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1037978,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.9,
+      "end_object_size": 7.1,
+      "start_memory_size": 19.2,
+      "end_memory_size": 19.2,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1038328,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.9,
+      "end_object_size": 7,
+      "start_memory_size": 19.2,
+      "end_memory_size": 19.2,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1038629,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.9,
+      "end_object_size": 7.1,
+      "start_memory_size": 19.2,
+      "end_memory_size": 19.2,
+      "pause": 0.6,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1038978,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.9,
+      "end_object_size": 7,
+      "start_memory_size": 19.2,
+      "end_memory_size": 19.2,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1039278,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.9,
+      "end_object_size": 7.1,
+      "start_memory_size": 19.2,
+      "end_memory_size": 19.2,
+      "pause": 0.6,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1039628,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.9,
+      "end_object_size": 7,
+      "start_memory_size": 19.2,
+      "end_memory_size": 19.2,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1039928,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.9,
+      "end_object_size": 7.1,
+      "start_memory_size": 19.2,
+      "end_memory_size": 19.2,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1040278,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 11,
+      "end_object_size": 7,
+      "start_memory_size": 19.2,
+      "end_memory_size": 19.2,
+      "pause": 0.6,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1040578,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.9,
+      "end_object_size": 7.1,
+      "start_memory_size": 19.2,
+      "end_memory_size": 19.2,
+      "pause": 0.6,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1040928,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 11,
+      "end_object_size": 7,
+      "start_memory_size": 19.2,
+      "end_memory_size": 19.2,
+      "pause": 0.3,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1041228,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.9,
+      "end_object_size": 7.1,
+      "start_memory_size": 19.2,
+      "end_memory_size": 19.2,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1041578,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 11,
+      "end_object_size": 7,
+      "start_memory_size": 19.2,
+      "end_memory_size": 19.2,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1041878,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.9,
+      "end_object_size": 7.1,
+      "start_memory_size": 19.2,
+      "end_memory_size": 19.2,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1042227,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 11,
+      "end_object_size": 7,
+      "start_memory_size": 19.2,
+      "end_memory_size": 19.2,
+      "pause": 0.3,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1042529,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.9,
+      "end_object_size": 7.1,
+      "start_memory_size": 19.2,
+      "end_memory_size": 19.2,
+      "pause": 0.6,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1042878,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 11,
+      "end_object_size": 7,
+      "start_memory_size": 19.2,
+      "end_memory_size": 19.2,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1043178,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.9,
+      "end_object_size": 7.1,
+      "start_memory_size": 19.2,
+      "end_memory_size": 19.2,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1043528,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 11,
+      "end_object_size": 7,
+      "start_memory_size": 19.2,
+      "end_memory_size": 19.2,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1043828,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.9,
+      "end_object_size": 7.1,
+      "start_memory_size": 19.2,
+      "end_memory_size": 19.2,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1044178,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 11,
+      "end_object_size": 7,
+      "start_memory_size": 19.2,
+      "end_memory_size": 19.2,
+      "pause": 0.4,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1044478,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.9,
+      "end_object_size": 7.1,
+      "start_memory_size": 19.2,
+      "end_memory_size": 19.2,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1044828,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 11,
+      "end_object_size": 7.1,
+      "start_memory_size": 19.2,
+      "end_memory_size": 19.2,
+      "pause": 0.4,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1045128,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.9,
+      "end_object_size": 7.1,
+      "start_memory_size": 19.2,
+      "end_memory_size": 19.2,
+      "pause": 0.6,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1045478,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 11,
+      "end_object_size": 7.1,
+      "start_memory_size": 19.2,
+      "end_memory_size": 19.2,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1045778,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.9,
+      "end_object_size": 7.1,
+      "start_memory_size": 19.2,
+      "end_memory_size": 19.2,
+      "pause": 0.4,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1046129,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 11,
+      "end_object_size": 7,
+      "start_memory_size": 19.2,
+      "end_memory_size": 19.2,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1046430,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.9,
+      "end_object_size": 7.1,
+      "start_memory_size": 19.2,
+      "end_memory_size": 19.2,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1046778,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 11,
+      "end_object_size": 7,
+      "start_memory_size": 19.2,
+      "end_memory_size": 19.2,
+      "pause": 0.3,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1047078,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.9,
+      "end_object_size": 7.1,
+      "start_memory_size": 19.2,
+      "end_memory_size": 19.2,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1047429,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 11,
+      "end_object_size": 7.1,
+      "start_memory_size": 19.2,
+      "end_memory_size": 19.2,
+      "pause": 0.4,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1047728,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.9,
+      "end_object_size": 7.1,
+      "start_memory_size": 19.2,
+      "end_memory_size": 19.2,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1048077,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 11,
+      "end_object_size": 7,
+      "start_memory_size": 19.2,
+      "end_memory_size": 19.2,
+      "pause": 0.3,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1048378,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.9,
+      "end_object_size": 7.1,
+      "start_memory_size": 19.2,
+      "end_memory_size": 19.2,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1048728,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 11,
+      "end_object_size": 7.1,
+      "start_memory_size": 19.2,
+      "end_memory_size": 19.2,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1049028,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.9,
+      "end_object_size": 7.1,
+      "start_memory_size": 19.2,
+      "end_memory_size": 19.2,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1049378,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 11,
+      "end_object_size": 7.1,
+      "start_memory_size": 19.2,
+      "end_memory_size": 19.2,
+      "pause": 0.8,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1049678,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.9,
+      "end_object_size": 7.1,
+      "start_memory_size": 19.2,
+      "end_memory_size": 19.2,
+      "pause": 0.7,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1050028,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 11,
+      "end_object_size": 7.1,
+      "start_memory_size": 19.2,
+      "end_memory_size": 19.2,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1050328,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.9,
+      "end_object_size": 7.1,
+      "start_memory_size": 19.2,
+      "end_memory_size": 19.2,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1050678,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 11,
+      "end_object_size": 7,
+      "start_memory_size": 19.2,
+      "end_memory_size": 19.2,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1050978,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.9,
+      "end_object_size": 7.1,
+      "start_memory_size": 19.2,
+      "end_memory_size": 19.2,
+      "pause": 0.6,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1051328,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 11,
+      "end_object_size": 7,
+      "start_memory_size": 19.2,
+      "end_memory_size": 19.2,
+      "pause": 0.4,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1051628,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.9,
+      "end_object_size": 7.1,
+      "start_memory_size": 19.2,
+      "end_memory_size": 19.2,
+      "pause": 0.4,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1051978,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 11,
+      "end_object_size": 7,
+      "start_memory_size": 19.2,
+      "end_memory_size": 19.2,
+      "pause": 0.3,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1052278,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.9,
+      "end_object_size": 7.1,
+      "start_memory_size": 19.2,
+      "end_memory_size": 19.2,
+      "pause": 0.6,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1052628,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 11,
+      "end_object_size": 7,
+      "start_memory_size": 19.2,
+      "end_memory_size": 19.2,
+      "pause": 0.3,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1052928,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.9,
+      "end_object_size": 7.1,
+      "start_memory_size": 19.2,
+      "end_memory_size": 19.2,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1053278,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 11,
+      "end_object_size": 7,
+      "start_memory_size": 19.2,
+      "end_memory_size": 19.2,
+      "pause": 0.6,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1053578,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.9,
+      "end_object_size": 7.1,
+      "start_memory_size": 19.2,
+      "end_memory_size": 19.2,
+      "pause": 0.6,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1053928,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 11,
+      "end_object_size": 7,
+      "start_memory_size": 19.2,
+      "end_memory_size": 19.2,
+      "pause": 0.6,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1054228,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.9,
+      "end_object_size": 7.1,
+      "start_memory_size": 19.2,
+      "end_memory_size": 19.2,
+      "pause": 0.4,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1054578,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 11,
+      "end_object_size": 7.1,
+      "start_memory_size": 19.2,
+      "end_memory_size": 19.2,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1054878,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.9,
+      "end_object_size": 7.2,
+      "start_memory_size": 19.2,
+      "end_memory_size": 19.2,
+      "pause": 0.6,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1055228,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 11,
+      "end_object_size": 7.1,
+      "start_memory_size": 19.2,
+      "end_memory_size": 19.2,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1055529,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.9,
+      "end_object_size": 7.2,
+      "start_memory_size": 19.2,
+      "end_memory_size": 19.2,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1055878,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 11,
+      "end_object_size": 7.1,
+      "start_memory_size": 19.2,
+      "end_memory_size": 19.2,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1056178,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.9,
+      "end_object_size": 7.1,
+      "start_memory_size": 19.2,
+      "end_memory_size": 19.2,
+      "pause": 0.4,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1056529,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 11,
+      "end_object_size": 7.1,
+      "start_memory_size": 19.2,
+      "end_memory_size": 19.2,
+      "pause": 0.7,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1056829,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.9,
+      "end_object_size": 7.1,
+      "start_memory_size": 19.2,
+      "end_memory_size": 19.2,
+      "pause": 0.6,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1057178,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 11,
+      "end_object_size": 7,
+      "start_memory_size": 19.2,
+      "end_memory_size": 19.2,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1057478,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.9,
+      "end_object_size": 7.1,
+      "start_memory_size": 19.2,
+      "end_memory_size": 19.2,
+      "pause": 0.6,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1057829,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 11,
+      "end_object_size": 7,
+      "start_memory_size": 19.2,
+      "end_memory_size": 19.2,
+      "pause": 0.4,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1058129,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.9,
+      "end_object_size": 7.2,
+      "start_memory_size": 19.2,
+      "end_memory_size": 19.2,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1058478,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 11,
+      "end_object_size": 7.1,
+      "start_memory_size": 19.2,
+      "end_memory_size": 19.2,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1058778,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.9,
+      "end_object_size": 7.1,
+      "start_memory_size": 19.2,
+      "end_memory_size": 19.2,
+      "pause": 0.6,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1059128,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 11,
+      "end_object_size": 7.1,
+      "start_memory_size": 19.2,
+      "end_memory_size": 19.2,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1059428,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.9,
+      "end_object_size": 7.2,
+      "start_memory_size": 19.2,
+      "end_memory_size": 19.2,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1059778,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 11,
+      "end_object_size": 7.1,
+      "start_memory_size": 19.2,
+      "end_memory_size": 19.2,
+      "pause": 0.4,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1060078,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.9,
+      "end_object_size": 7.1,
+      "start_memory_size": 19.2,
+      "end_memory_size": 19.2,
+      "pause": 0.4,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1060428,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 11,
+      "end_object_size": 7.1,
+      "start_memory_size": 19.2,
+      "end_memory_size": 19.2,
+      "pause": 0.4,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1060729,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.9,
+      "end_object_size": 7.2,
+      "start_memory_size": 19.2,
+      "end_memory_size": 19.2,
+      "pause": 0.6,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1061078,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 11,
+      "end_object_size": 7.1,
+      "start_memory_size": 19.2,
+      "end_memory_size": 19.2,
+      "pause": 0.6,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1061379,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.9,
+      "end_object_size": 7.2,
+      "start_memory_size": 19.2,
+      "end_memory_size": 19.2,
+      "pause": 1.7,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1061728,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 11,
+      "end_object_size": 7.1,
+      "start_memory_size": 19.2,
+      "end_memory_size": 19.2,
+      "pause": 0.4,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1062028,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.9,
+      "end_object_size": 7.2,
+      "start_memory_size": 19.2,
+      "end_memory_size": 19.2,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1062379,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 11,
+      "end_object_size": 7.1,
+      "start_memory_size": 19.2,
+      "end_memory_size": 27.2,
+      "pause": 1.6,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1063029,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 14.9,
+      "end_object_size": 7.1,
+      "start_memory_size": 27.2,
+      "end_memory_size": 27.2,
+      "pause": 1,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1063679,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 14.9,
+      "end_object_size": 7.1,
+      "start_memory_size": 27.2,
+      "end_memory_size": 27.2,
+      "pause": 1.1,
+      "external_time": 0.2,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1064328,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 14.9,
+      "end_object_size": 7.1,
+      "start_memory_size": 27.2,
+      "end_memory_size": 27.2,
+      "pause": 0.6,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1064978,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 14.9,
+      "end_object_size": 7.1,
+      "start_memory_size": 27.2,
+      "end_memory_size": 27.2,
+      "pause": 0.7,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1065629,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 14.9,
+      "end_object_size": 7.1,
+      "start_memory_size": 27.2,
+      "end_memory_size": 27.2,
+      "pause": 0.8,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1066278,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 14.9,
+      "end_object_size": 7.1,
+      "start_memory_size": 27.2,
+      "end_memory_size": 27.2,
+      "pause": 0.7,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1066929,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 14.9,
+      "end_object_size": 7.1,
+      "start_memory_size": 27.2,
+      "end_memory_size": 27.2,
+      "pause": 0.6,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1067578,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 14.9,
+      "end_object_size": 7.2,
+      "start_memory_size": 27.2,
+      "end_memory_size": 27.2,
+      "pause": 0.7,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1068228,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 14.9,
+      "end_object_size": 7.1,
+      "start_memory_size": 27.2,
+      "end_memory_size": 27.2,
+      "pause": 0.6,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1068878,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 14.9,
+      "end_object_size": 7.2,
+      "start_memory_size": 27.2,
+      "end_memory_size": 27.2,
+      "pause": 0.8,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1069529,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 14.9,
+      "end_object_size": 7.2,
+      "start_memory_size": 27.2,
+      "end_memory_size": 27.2,
+      "pause": 0.8,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1070178,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 14.9,
+      "end_object_size": 7.2,
+      "start_memory_size": 27.2,
+      "end_memory_size": 27.2,
+      "pause": 0.7,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1070828,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 14.9,
+      "end_object_size": 7.2,
+      "start_memory_size": 27.2,
+      "end_memory_size": 27.2,
+      "pause": 0.6,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1071478,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 14.9,
+      "end_object_size": 7.2,
+      "start_memory_size": 27.2,
+      "end_memory_size": 27.2,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1072129,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 14.9,
+      "end_object_size": 7.2,
+      "start_memory_size": 27.2,
+      "end_memory_size": 27.2,
+      "pause": 1.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1072778,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 14.9,
+      "end_object_size": 7.2,
+      "start_memory_size": 27.2,
+      "end_memory_size": 27.2,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1073428,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 14.9,
+      "end_object_size": 7.2,
+      "start_memory_size": 27.2,
+      "end_memory_size": 27.2,
+      "pause": 0.7,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1074078,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 14.9,
+      "end_object_size": 7.2,
+      "start_memory_size": 27.2,
+      "end_memory_size": 27.2,
+      "pause": 0.7,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1074729,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 14.9,
+      "end_object_size": 7.2,
+      "start_memory_size": 27.2,
+      "end_memory_size": 27.2,
+      "pause": 0.8,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1075378,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 14.9,
+      "end_object_size": 7.2,
+      "start_memory_size": 27.2,
+      "end_memory_size": 27.2,
+      "pause": 0.7,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1076029,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 14.9,
+      "end_object_size": 7.2,
+      "start_memory_size": 27.2,
+      "end_memory_size": 27.2,
+      "pause": 0.9,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1076679,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 14.9,
+      "end_object_size": 7.2,
+      "start_memory_size": 27.2,
+      "end_memory_size": 27.2,
+      "pause": 1.3,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1076938,
+    "data": {
+      "collector": "mark_sweep",
+      "start_object_size": 10.5,
+      "end_object_size": 7.6,
+      "start_memory_size": 27.2,
+      "end_memory_size": 12.2,
+      "pause": 8.7,
+      "external_time": 0,
+      "step_description": "+ 9.4 ms in 14 steps since start of marking, biggest step 1.4 ms, walltime since start of marking 20 ms"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1077030,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 8.4,
+      "end_object_size": 7,
+      "start_memory_size": 12.2,
+      "end_memory_size": 16.7,
+      "pause": 0.7,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1077278,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 9.9,
+      "end_object_size": 7,
+      "start_memory_size": 16.7,
+      "end_memory_size": 16.7,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1077528,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 9.9,
+      "end_object_size": 6.9,
+      "start_memory_size": 16.7,
+      "end_memory_size": 16.7,
+      "pause": 0.3,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1077778,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 9.9,
+      "end_object_size": 6.9,
+      "start_memory_size": 16.7,
+      "end_memory_size": 16.7,
+      "pause": 0.4,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1078028,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 9.9,
+      "end_object_size": 7,
+      "start_memory_size": 16.7,
+      "end_memory_size": 16.7,
+      "pause": 0.6,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1078278,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 9.9,
+      "end_object_size": 7,
+      "start_memory_size": 16.7,
+      "end_memory_size": 16.7,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1078529,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 9.9,
+      "end_object_size": 7,
+      "start_memory_size": 16.7,
+      "end_memory_size": 16.7,
+      "pause": 0.4,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1078778,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 9.9,
+      "end_object_size": 6.9,
+      "start_memory_size": 16.7,
+      "end_memory_size": 16.7,
+      "pause": 0.4,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1079028,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 9.9,
+      "end_object_size": 7,
+      "start_memory_size": 16.7,
+      "end_memory_size": 16.7,
+      "pause": 0.4,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1079278,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 9.9,
+      "end_object_size": 7,
+      "start_memory_size": 16.7,
+      "end_memory_size": 16.7,
+      "pause": 0.6,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1079529,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 9.9,
+      "end_object_size": 6.9,
+      "start_memory_size": 16.7,
+      "end_memory_size": 16.7,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1079779,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 9.9,
+      "end_object_size": 6.9,
+      "start_memory_size": 16.7,
+      "end_memory_size": 16.7,
+      "pause": 1.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1080028,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 9.9,
+      "end_object_size": 6.9,
+      "start_memory_size": 16.7,
+      "end_memory_size": 16.7,
+      "pause": 0.3,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1080278,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 9.9,
+      "end_object_size": 6.9,
+      "start_memory_size": 16.7,
+      "end_memory_size": 16.7,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1080530,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 9.9,
+      "end_object_size": 6.9,
+      "start_memory_size": 16.7,
+      "end_memory_size": 16.7,
+      "pause": 0.6,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1080778,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 9.9,
+      "end_object_size": 7,
+      "start_memory_size": 16.7,
+      "end_memory_size": 16.7,
+      "pause": 0.4,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1081016,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 9.9,
+      "end_object_size": 7,
+      "start_memory_size": 16.7,
+      "end_memory_size": 16.7,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1081266,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 9.9,
+      "end_object_size": 7,
+      "start_memory_size": 16.7,
+      "end_memory_size": 16.7,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1081516,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 9.9,
+      "end_object_size": 7,
+      "start_memory_size": 16.7,
+      "end_memory_size": 16.7,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1081766,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 9.9,
+      "end_object_size": 7,
+      "start_memory_size": 16.7,
+      "end_memory_size": 16.7,
+      "pause": 0.6,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1082015,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 9.9,
+      "end_object_size": 7,
+      "start_memory_size": 16.7,
+      "end_memory_size": 16.7,
+      "pause": 0.4,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1082278,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 9.9,
+      "end_object_size": 7,
+      "start_memory_size": 16.7,
+      "end_memory_size": 16.7,
+      "pause": 0.4,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1082528,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 9.9,
+      "end_object_size": 7,
+      "start_memory_size": 16.7,
+      "end_memory_size": 16.7,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1082778,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 9.9,
+      "end_object_size": 7,
+      "start_memory_size": 16.7,
+      "end_memory_size": 16.7,
+      "pause": 0.4,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1083029,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 9.9,
+      "end_object_size": 7,
+      "start_memory_size": 16.7,
+      "end_memory_size": 16.7,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1083278,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 9.9,
+      "end_object_size": 7,
+      "start_memory_size": 16.7,
+      "end_memory_size": 16.7,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1083529,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 9.9,
+      "end_object_size": 7,
+      "start_memory_size": 16.7,
+      "end_memory_size": 16.7,
+      "pause": 0.6,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1083778,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 9.9,
+      "end_object_size": 7,
+      "start_memory_size": 16.7,
+      "end_memory_size": 16.7,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1084028,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 9.9,
+      "end_object_size": 7,
+      "start_memory_size": 16.7,
+      "end_memory_size": 16.7,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1084278,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 9.9,
+      "end_object_size": 7,
+      "start_memory_size": 16.7,
+      "end_memory_size": 16.7,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1084528,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 9.9,
+      "end_object_size": 7,
+      "start_memory_size": 16.7,
+      "end_memory_size": 16.7,
+      "pause": 0.6,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1084778,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 9.9,
+      "end_object_size": 7,
+      "start_memory_size": 16.7,
+      "end_memory_size": 16.7,
+      "pause": 0.4,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1085028,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 9.9,
+      "end_object_size": 7,
+      "start_memory_size": 16.7,
+      "end_memory_size": 16.7,
+      "pause": 0.4,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1085278,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 9.9,
+      "end_object_size": 7,
+      "start_memory_size": 16.7,
+      "end_memory_size": 16.7,
+      "pause": 0.4,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1085528,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 9.9,
+      "end_object_size": 7,
+      "start_memory_size": 16.7,
+      "end_memory_size": 16.7,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1085778,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 9.9,
+      "end_object_size": 7,
+      "start_memory_size": 16.7,
+      "end_memory_size": 16.7,
+      "pause": 0.4,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1086028,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 9.9,
+      "end_object_size": 7,
+      "start_memory_size": 16.7,
+      "end_memory_size": 16.7,
+      "pause": 0.3,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1086278,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 9.9,
+      "end_object_size": 7,
+      "start_memory_size": 16.7,
+      "end_memory_size": 16.7,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1086528,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 9.9,
+      "end_object_size": 7,
+      "start_memory_size": 16.7,
+      "end_memory_size": 16.7,
+      "pause": 0.4,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1086778,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 9.9,
+      "end_object_size": 7,
+      "start_memory_size": 16.7,
+      "end_memory_size": 16.7,
+      "pause": 0.4,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1087028,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 9.9,
+      "end_object_size": 7,
+      "start_memory_size": 16.7,
+      "end_memory_size": 16.7,
+      "pause": 0.3,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1087280,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 9.9,
+      "end_object_size": 7,
+      "start_memory_size": 16.7,
+      "end_memory_size": 16.7,
+      "pause": 2.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1087528,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 9.9,
+      "end_object_size": 7,
+      "start_memory_size": 16.7,
+      "end_memory_size": 16.7,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1087778,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 9.9,
+      "end_object_size": 7,
+      "start_memory_size": 16.7,
+      "end_memory_size": 16.7,
+      "pause": 0.4,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1088028,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 9.9,
+      "end_object_size": 7,
+      "start_memory_size": 16.7,
+      "end_memory_size": 16.7,
+      "pause": 0.4,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1088278,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 9.9,
+      "end_object_size": 7,
+      "start_memory_size": 16.7,
+      "end_memory_size": 16.7,
+      "pause": 0.4,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1088528,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 9.9,
+      "end_object_size": 7,
+      "start_memory_size": 16.7,
+      "end_memory_size": 16.7,
+      "pause": 0.4,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1088778,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 9.9,
+      "end_object_size": 7,
+      "start_memory_size": 16.7,
+      "end_memory_size": 16.7,
+      "pause": 0.4,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1089028,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 9.9,
+      "end_object_size": 7,
+      "start_memory_size": 16.7,
+      "end_memory_size": 16.7,
+      "pause": 0.6,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1089278,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 9.9,
+      "end_object_size": 7,
+      "start_memory_size": 16.7,
+      "end_memory_size": 16.7,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1089528,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 9.9,
+      "end_object_size": 7,
+      "start_memory_size": 16.7,
+      "end_memory_size": 16.7,
+      "pause": 0.4,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1089778,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 9.9,
+      "end_object_size": 7,
+      "start_memory_size": 16.7,
+      "end_memory_size": 16.7,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1090028,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 9.9,
+      "end_object_size": 7,
+      "start_memory_size": 16.7,
+      "end_memory_size": 16.7,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1090278,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10,
+      "end_object_size": 7,
+      "start_memory_size": 16.7,
+      "end_memory_size": 16.7,
+      "pause": 0.4,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1090528,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10,
+      "end_object_size": 7,
+      "start_memory_size": 16.7,
+      "end_memory_size": 17.2,
+      "pause": 0.4,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1090778,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10,
+      "end_object_size": 7,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.4,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1091029,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10,
+      "end_object_size": 7,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.6,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1091278,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10,
+      "end_object_size": 7,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1091529,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10,
+      "end_object_size": 7,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.4,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1091778,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10,
+      "end_object_size": 7,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.6,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1092028,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10,
+      "end_object_size": 7,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.6,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1092280,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10,
+      "end_object_size": 7,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 2.1,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1092528,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10,
+      "end_object_size": 7,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1092778,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10,
+      "end_object_size": 7,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.4,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1093028,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10,
+      "end_object_size": 7,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1093278,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10,
+      "end_object_size": 7,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1093528,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10,
+      "end_object_size": 7,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1093778,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10,
+      "end_object_size": 7,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.6,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1094028,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10,
+      "end_object_size": 7,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1094278,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10,
+      "end_object_size": 7,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1094528,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10,
+      "end_object_size": 7,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.3,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1094778,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10,
+      "end_object_size": 7,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.6,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1095028,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10,
+      "end_object_size": 7,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1095278,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10,
+      "end_object_size": 7,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1095529,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10,
+      "end_object_size": 7,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1095778,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10,
+      "end_object_size": 7,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1096028,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10,
+      "end_object_size": 7,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.6,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1096278,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10,
+      "end_object_size": 7,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.6,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1096528,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10,
+      "end_object_size": 7,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.7,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1096778,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10,
+      "end_object_size": 7,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.6,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1097028,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10,
+      "end_object_size": 7,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.6,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1097280,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10,
+      "end_object_size": 7.1,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 2.2,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1097528,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10,
+      "end_object_size": 7,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.7,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1097778,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10,
+      "end_object_size": 7,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.6,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1098028,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10,
+      "end_object_size": 7.1,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.4,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1098278,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10,
+      "end_object_size": 7.1,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1098528,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10,
+      "end_object_size": 7.1,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.4,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1098778,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10,
+      "end_object_size": 7.1,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.4,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1099028,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10,
+      "end_object_size": 7,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.4,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1099278,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10,
+      "end_object_size": 7.1,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.4,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1099528,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10,
+      "end_object_size": 7.1,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.4,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1099778,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10,
+      "end_object_size": 7.1,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.4,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1100028,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10,
+      "end_object_size": 7.1,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.3,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1100278,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10,
+      "end_object_size": 7.1,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.4,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1100528,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10,
+      "end_object_size": 7.1,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.6,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1100778,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10,
+      "end_object_size": 7.1,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.7,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1101028,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10,
+      "end_object_size": 7.1,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.6,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1101280,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10,
+      "end_object_size": 7.1,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 1.3,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1101528,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10,
+      "end_object_size": 7.1,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.6,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1101778,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10,
+      "end_object_size": 7.1,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1102029,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10,
+      "end_object_size": 7.1,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1102280,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10,
+      "end_object_size": 7.1,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 2,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1102528,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10,
+      "end_object_size": 7.1,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1102778,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10,
+      "end_object_size": 7.1,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1103028,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10,
+      "end_object_size": 7.1,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.4,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1103278,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10,
+      "end_object_size": 7.1,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.6,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1103528,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10,
+      "end_object_size": 7.1,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.4,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1103778,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10,
+      "end_object_size": 7.1,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.6,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1104028,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10,
+      "end_object_size": 7.1,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.6,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1104278,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10,
+      "end_object_size": 7.1,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1104528,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10,
+      "end_object_size": 7.1,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1104778,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10,
+      "end_object_size": 7.1,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1105028,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10,
+      "end_object_size": 7.1,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.6,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1105278,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10,
+      "end_object_size": 7.1,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.7,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1105528,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10,
+      "end_object_size": 7.1,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.4,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1105778,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10,
+      "end_object_size": 7.1,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1106028,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10,
+      "end_object_size": 7.1,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1106278,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10,
+      "end_object_size": 7.1,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.7,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1106529,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10,
+      "end_object_size": 7.1,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1106778,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10,
+      "end_object_size": 7.1,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.6,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1107028,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10,
+      "end_object_size": 7.1,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.4,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1107278,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10,
+      "end_object_size": 7.1,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 1.1,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1107528,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10,
+      "end_object_size": 7.1,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1107778,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10,
+      "end_object_size": 7.1,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.6,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1108028,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10,
+      "end_object_size": 7.1,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.4,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1108278,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10,
+      "end_object_size": 7.1,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1108528,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10,
+      "end_object_size": 7.1,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.6,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1108778,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10,
+      "end_object_size": 7.1,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1109030,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10,
+      "end_object_size": 7.1,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.4,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1109278,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.1,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1109528,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.1,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1109778,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.1,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.4,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1110028,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.1,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.3,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1110278,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.1,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.4,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1110528,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.1,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.4,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1110778,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.1,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.3,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1111028,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.1,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1111278,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.1,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.4,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1111528,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.1,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.3,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1111778,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.1,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.4,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1112028,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.1,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.4,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1112279,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.1,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.9,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1112528,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.1,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1112778,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.1,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.6,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1113028,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.1,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1113278,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.1,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1113528,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.1,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1113778,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.1,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.6,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1114029,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.1,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.6,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1114278,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.1,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1114528,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.2,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.6,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1114778,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.1,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1115028,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.1,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1115278,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.2,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.4,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1115528,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.1,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.3,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1115778,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.1,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1116028,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.1,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1116278,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.2,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.6,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1116528,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.1,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1116778,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.1,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.4,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1117028,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.1,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1117278,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.2,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1117528,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.2,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1117778,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.1,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.4,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1118028,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.1,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.3,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1118278,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.2,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.6,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1118528,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.1,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.6,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1118778,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.1,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.6,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1119028,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.1,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1119278,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.1,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1119528,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.1,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1119778,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.1,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.6,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1120028,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.1,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1120278,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.1,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.4,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1120529,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.2,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1120778,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.1,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1121028,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.1,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1121278,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.1,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.3,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1121528,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.1,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.4,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1121778,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.2,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.4,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1122029,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.2,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.4,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1122279,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.2,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 1.1,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1122528,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.1,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.3,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1122778,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.2,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.4,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1123028,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.2,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.4,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1123278,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.2,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1123528,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.2,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.4,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1123778,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.1,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.4,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1124028,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.2,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1124278,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.2,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.4,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1124528,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.2,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.4,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1124778,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.2,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.4,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1125028,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.1,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.4,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1125278,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.2,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1125528,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.2,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.4,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1125778,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.2,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.4,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1126029,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.1,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.3,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1126278,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.1,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1126529,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.2,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 1,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1126778,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.1,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.6,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1127028,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.2,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.4,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1127278,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.1,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.4,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1127528,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.1,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1127778,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.2,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.4,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1128028,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.2,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1128278,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.2,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.4,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1128529,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.1,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.4,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1128778,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.1,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.6,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1129028,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.1,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.6,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1129278,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.2,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1129528,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.2,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1129778,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.1,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.4,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1130028,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.1,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.4,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1130278,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.1,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1130529,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.2,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.4,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1130778,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.2,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.6,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1131028,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.2,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1131278,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.2,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1131528,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.2,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.4,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1131778,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.2,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1132029,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.2,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.4,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1132278,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.2,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.6,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1132530,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.2,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1132778,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.2,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1133028,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.2,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.4,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1133278,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.2,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.4,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1133528,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.2,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1133778,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.2,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.6,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1134028,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.2,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1134278,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.2,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.4,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1134529,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.2,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.4,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1134778,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.2,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1135028,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.2,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.4,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1135278,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.2,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.4,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1135528,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.2,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.4,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1135778,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.2,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.4,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1136028,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.2,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.4,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1136278,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.2,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1136529,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.2,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1136778,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.2,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.3,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1137030,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.2,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.6,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1137280,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.2,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 1.8,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1137528,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.2,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1137778,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.2,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.3,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1138029,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.2,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1138278,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.2,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1138529,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.2,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1138778,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.2,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1139028,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.2,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 1,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1139278,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.2,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.6,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1139528,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.2,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1139778,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.2,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.6,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1140029,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.2,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1140278,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.2,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1140528,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.2,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1140778,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.2,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.6,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1141028,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.2,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.4,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1141278,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.2,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.6,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1141530,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.2,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.6,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1141778,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.2,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1142028,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.2,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.6,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1142279,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.2,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 1.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1142528,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.2,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.6,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1142778,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.2,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1143029,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.2,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1143278,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.2,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.6,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1143532,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.2,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.9,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1143778,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.2,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.4,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1144029,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.2,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.6,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1144278,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.2,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1144528,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.2,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.6,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1144778,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.2,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1145028,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.2,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.4,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1145278,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.2,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.6,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1145529,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.2,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.6,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1145778,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.2,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1146029,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.2,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.6,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1146278,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.2,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.4,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1146528,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.2,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1146778,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.2,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1147028,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.2,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.4,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1147278,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.2,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1147528,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.2,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.3,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1147778,
+    "data": {
+      "collector": "scavenge",
+      "start_object_size": 10.1,
+      "end_object_size": 7.2,
+      "start_memory_size": 17.2,
+      "end_memory_size": 17.2,
+      "pause": 0.5,
+      "external_time": 0,
+      "step_description": "average mu = 1.000, current mu = 1.000"
+    },
+    "type": "trace"
+  },
+  {
+    "pid": 8954,
+    "isolate": "0x2af1610",
+    "time_since_init": 1182002,
+    "data": {
+      "collector": "mark_sweep",
+      "start_object_size": 7.9,
+      "end_object_size": 7,
+      "start_memory_size": 17.2,
+      "end_memory_size": 11.2,
+      "pause": 7.9,
+      "external_time": 0,
+      "step_description": "+ 3.5 ms in 6 steps since start of marking, biggest step 1.1 ms, walltime since start of marking 29 ms"
+    },
+    "type": "trace"
+  }
+]

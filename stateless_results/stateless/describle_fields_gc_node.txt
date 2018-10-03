@@ -1,0 +1,14 @@
+[12994] | [pid] 
+77042 ms: | <time_since_start> : 
+Scavenge | <Phase>
+260.7 | <heap_used_before (old+young)>
+(298.1) |  (<allocated_heap_before>)
+-> | ->
+247.7 | <heap_used_after (old+young)>
+(298.1) MB | (<allocated_heap_after>) MB, 
+9.4 ms | <time_spent_gc>
+[allocation failure]  [<reason_of_gc>]
+	
+        
+               
+              
